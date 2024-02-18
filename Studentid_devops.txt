@@ -1,0 +1,6 @@
+At the end of this course, the student will reliably demonstrate the ability to:
+1. Effectively carry out the roles of a System or Network engineer with DevOps processes by
+utilizing the industry-standard tools and techniques and strategies such as CI/CD, as well as
+software development lifecycle and containerization for deployment.
+2. Demonstrate the strategies and skills of using suitable DevOps tools, Cloud database
+technologies and techniques for software/network applications
