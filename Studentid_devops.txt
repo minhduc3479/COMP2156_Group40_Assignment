@@ -4,3 +4,7 @@ utilizing the industry-standard tools and techniques and strategies such as CI/C
 software development lifecycle and containerization for deployment.
 2. Demonstrate the strategies and skills of using suitable DevOps tools, Cloud database
 technologies and techniques for software/network applications
+3. Enhance the software development life cycle cycle through cross collaboration among the IT
+staff by understanding and effectively automating the application configurations and operations.
+4. Utilize Version Control System workflows to develop optimized, low-risk software releases and
+continuous code integration.
