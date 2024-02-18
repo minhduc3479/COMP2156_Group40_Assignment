@@ -8,3 +8,13 @@ technologies and techniques for software/network applications
 staff by understanding and effectively automating the application configurations and operations.
 4. Utilize Version Control System workflows to develop optimized, low-risk software releases and
 continuous code integration.
+5. Make a well-informed analysis and architectural decisions between monolithic or microservice
+architecture for software products.
+6. Monitor code quality and CI/CD pipelines to improve and optimize the DevOps processes
+continuously
+7. Create effective strategies and utilize service platforms such as Infrastructure as Code and the
+benefits of cloud computing to deploy a software product.
+8. Identify the market and opportunities for a DevOps Engineer to Effectively develop & integrate
+security practices into the software development cycle and CI/CD pipelines.
+LIST OF TEXTBOOKS AND OTHER TEACHING AIDS:
+Required
