@@ -16,5 +16,4 @@ continuously
 benefits of cloud computing to deploy a software product.
 8. Identify the market and opportunities for a DevOps Engineer to Effectively develop & integrate
 security practices into the software development cycle and CI/CD pipelines.
-LIST OF TEXTBOOKS AND OTHER TEACHING AIDS:
-Required
+
