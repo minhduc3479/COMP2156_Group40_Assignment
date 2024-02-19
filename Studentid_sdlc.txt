@@ -6,3 +6,6 @@ BrightSpace is the college's NEW Learning Management System. It's a web-based le
 
 Office365 and Teams
 Students, faculty and staff have free & access to Office 365, including Word, Excel, PowerPoint, Teams and more, all accessible from your home computer.
+
+AppsAnywhere
+AppsAnywhere is a free service that allows George Brown students, staff and faculty to access software on-demand, anytime, from anywhere.
