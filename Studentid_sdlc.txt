@@ -1,2 +1,8 @@
 GET TRAINING AND SUPPORT IN TECHNOLOGY USED IN THE DELIVERY OF ONLINE LEARNING
 Brightspace is the supported Learning Management System at the college and can provide students with a consistent experience in terms of accessing content and tools. In addition, all employees and students at the College have free off-campus access to Microsoft Office 365 and AppsAnywhere.
+
+D2L - BrightSpace
+BrightSpace is the college's NEW Learning Management System. It's a web-based learning environment for course delivery to replace Blackboard.
+
+Office365 and Teams
+Students, faculty and staff have free & access to Office 365, including Word, Excel, PowerPoint, Teams and more, all accessible from your home computer.
