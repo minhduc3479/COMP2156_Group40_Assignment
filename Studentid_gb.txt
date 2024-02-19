@@ -1,3 +1,6 @@
 PROGRAM DESCRIPTION
 Leadership Claims
-Our Cisco Networking Academy has won the Premier Partner status for two years in a row for our contributions to the success of students and instructors. We support over 35 other Cisco Networking Academies in North America and are one of only a few academies that have an Instructor Trainer status.
+Our Cisco Networking Academy has won the Premier Partner status for two years in a row for our contributions to the success of students and instructors. We support over 35 other Cisco Networking Academies in North America and are one of only a few academies that have an Instructor Trainer status.\\
+
+Program Overview
+The Computer Systems Technology three-year advanced diploma program will give you what you need to meet the high demand for skilled employees in the tech industry. Designed with extensive input from our industry partners, this program offers two optional specializations in your third year of study. Plus, you'll get to work on exciting, hands-on projects developing IT solutions.
