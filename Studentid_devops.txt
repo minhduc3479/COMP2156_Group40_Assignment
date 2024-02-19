@@ -11,3 +11,12 @@ If you enrol in January, you must complete semester 2 from May to August of the 
 In this rapidly changing industry, ongoing program improvements are being made, which may result in course changes.
 
 Changes are made in consultation with our Program Advisory Committee, which is composed of academic staff and industry representatives from small, medium-size, and large corporations.git
+
+Technology Requirements
+You'll need to have access to a personal computer with the following specifications: 
+
+16 GB RAM minimum 
+256 GB SSD Hard Drive (500+ GB is optimal) 
+Quad-core i7 2.4GHz or better 
+Video card (2GB RAM minimum/4GB RAM recommended) 
+Webcam
